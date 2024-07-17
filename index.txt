@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IQH network</title>
+    <h2>IQH network</h2>
+    <button onclick="Signin()">Sign in</button>
+    <h3>Welcome to the IQH network</h3>
+</body>
+</html>
